@@ -1,4 +1,8 @@
-# 5 Minute RPG a.k.a. Stabby Jack
+# Stabby Jack
+
+A quick game played with the [standard Anglo-American 52-card deck (the French Deck)](http://en.wikipedia.org/w/index.php?title=Standard_52-card_deck&oldid=619687425). [CC0](http://creativecommons.org/publicdomain/zero/1.0/). Credit to @nerdcorenet.
+
+Also known as "5-minute RPG".
 
 ## Overview
 
