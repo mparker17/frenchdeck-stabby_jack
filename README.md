@@ -110,7 +110,7 @@ Whenever you draw a face card / Special Card, your previous action is nullified 
     1. Cards of the same **suit**, or
     2. Cards of the same **value**
     3. NOTE: In this fashion it is possible to kill other players at the table, by reducing their HP to 0.
-    4. NOTE: Jokers are obligatory. You MUST swap a stat/attribute with another player. (In the unlikely event this is impossible, pass your turn. It is very unlikely ;)
+    4. NOTE: Jokers are obligatory. You MUST swap a stat/attribute with another player. (In the unlikely event this is impossible, pass your turn. It is very unlikely :wink:)
 
 ***Upon resolution of a Special Card, your turn is over.***
 
@@ -126,7 +126,7 @@ In order to win the game, you must fulfil certain conditions simultaneously:
 
 * Hold 10 XP (Defeated Monsters and Kings that have not been used to level up)
 * Hold more Physical Attack Power *or* Magical Attack Power than each opponents' Hit Points (You must be able to defeat each of the other players individually, not a sum of their HP)
-* Hold more Clubs than any other player (Have the most Luck; You must be able to kill each other player without the others noticing! :)
+* Hold more Clubs than any other player (Have the most Luck; You must be able to kill each other player without the others noticing! :smiley:)
 
 NOTE: At the outset of the game it is highly likely that one player will fulfill the Luck condition immediately. *Play continues until one player fulfills all three conditions concurrently.*
 
