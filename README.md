@@ -138,4 +138,4 @@ NOTE: At the outset of the game it is highly likely that one player will fulfill
 
 Original game concept by Mike Mallett, Matt Farmer, Steph Cote, Adam McLaren, and Kit Sculthorpe. Rules formalized by Chris Sibbitt. Copyright 2012-2013.
 
-The ruleset to Stabby Jack is licenced under CC0. You may consider this to mean "All Right Granted" as opposed to "All Rights Reserved." See http:*creativecommons.org/publicdomain/zero/1.0/ for more information.
+The ruleset to Stabby Jack is licenced under CC0. You may consider this to mean "All Right Granted" as opposed to "All Rights Reserved." See http://creativecommons.org/publicdomain/zero/1.0/ for more information.
