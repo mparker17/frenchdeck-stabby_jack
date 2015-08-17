@@ -109,12 +109,12 @@ Whenever you draw a face card / Special Card, your previous action is nullified 
     1. **Healing** - You are immediately healed for 2 HP
     2. **Gifts** - If you have Luck to pickpocket the Queen, you may steal an item from her purse. Draw a card face up from the pile. If it is a Special Card, your visit with the Queen is over and you must resolve the *Special Card*. If it is a numbered card less than or equal to the value of Luck in your hand, you can *Level Up* with this card, follow the steps for *Levelling Up*.
 * **King** - The King will challenge you in *Combat*. He has 13 HP and can be attacked using either Physical Attack Power (black Kings) or Magical Attack Power (Red kings) (not both, you need 14 Attack Power of one type to defeat the King). Defeating the King is worth 2 XP, and if you lose to the King you take 2 HP of damage.
-* **Ace** - The Ace is an instant opportunity to *Level Up*. Draw a card face up from the pile. If it is a Special Card, your *Levelling Up* fails and you must resolve the Special Card, otherwise follow the steps for *Levelling Up*.
-* **Joker (Optional)** - When you draw a Joker, swap one Stat card with a Stat card of another player. You may choose to swap either
+* **Ace** - When you draw an Ace, swap one Stat card with a Stat card of another player. You may choose to swap either
     1. Cards of the same **suit**, or
     2. Cards of the same **value**
     3. NOTE: In this fashion it is possible to kill other players at the table, by reducing their HP to 0.
-    4. NOTE: Jokers are obligatory. You MUST swap a stat/attribute with another player. (In the unlikely event this is impossible, pass your turn. It is very unlikely :wink:)
+    4. NOTE: Aces are obligatory. You MUST swap a stat/attribute with another player. (In the unlikely event this is impossible, pass your turn. It is very unlikely :wink:)
+* **Joker (Optional)** - The Joker is an instant opportunity to *Level Up*. Draw a card face up from the pile. If it is a Special Card, your *Levelling Up* fails and you must resolve the Special Card, otherwise follow the steps for *Levelling Up*.
 
 ***Upon resolution of a Special Card, your turn is over.***
 
