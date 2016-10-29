@@ -69,7 +69,7 @@ You may choose to heal one Hit Point by staying in bed for the turn. Remove one 
 
 During any turn you may trade in 5 XP (Monsters or Kings beaten in combat) in order to draw another card for your Stats hand. Draw cards from the deck until you draw a numbered card, discarding all Special Cards. (That is, levels paid for in this fashion are secured level-ups, passing through all face cards in the pile).
 
-Levelling up can also occur if you draw an Ace, or if you draw a Queen and have sufficient Luck (Clubs) to steal from her purse (see ***Special Cards***, below).
+Levelling up can also occur if you draw a Joker, or if you draw a Queen and have sufficient Luck (Clubs) to steal from her purse (see ***Special Cards***, below).
 
 #### Maximum Number of Cards
 
