@@ -71,7 +71,7 @@ You may choose to heal one Hit Point by staying in bed for the turn. Remove one 
 
 During any turn you may trade in 5 XP (Monsters or Monarchs beaten in combat) in order to draw another card for your Stats hand. Draw cards from the deck until you draw a numbered card, discarding all Special Cards. (That is, levels paid for in this fashion are secured level-ups, passing through all face cards in the pile).
 
-Levelling up can also occur if you draw an Ace, or if you draw a Club Monarch and have sufficient Luck (Clubs) to steal from them (see ***Special Cards***, below).
+Levelling up can also occur if you draw a Joker, or if you draw a Club Monarch and have sufficient Luck (Clubs) to steal from them (see ***Special Cards***, below).
 
 #### Maximum Number of Cards
 
@@ -112,12 +112,13 @@ Whenever you draw a face card / Special Card, your previous action is nullified 
     CLUB: Draw the next card from the pile. If it is a *Special Card* resolve it and end your turn. If it is a numbered card (2-10) less than or equal to the value of Luck in your hand, you can *Level Up* with this card, follow the steps for *Levelling Up*.
     DIAMOND: The Queen or King challenges you in *Combat* with a face value of 13. Fight the monarch with your Magical Attack Power (Sum of all your Diamonds)
     SPADE: The Queen or King challenges you in *Combat* with a face value of 13. Fight the monarch with your Physical Attack Power (Sum of all your Spades)
-* **Ace** - The Ace is an instant opportunity to *Level Up*. Draw a card face up from the pile. If it is a Special Card, your *Levelling Up* fails and you must resolve the Special Card, otherwise follow the steps for *Levelling Up*.
-* **Joker (Optional)** - When you draw a Joker, swap one Stat card with a Stat card of another player. You may choose to swap either
+your *Levelling Up* fails and you must resolve the Special Card, otherwise follow the steps for *Levelling Up*.
+* **Ace** - When you draw an Ace, swap one Stat card with a Stat card of another player. You may choose to swap either
     1. Cards of the same **suit**, or
     2. Cards of the same **value**
     3. NOTE: In this fashion it is possible to kill other players at the table, by reducing their HP to 0.
-    4. NOTE: Jokers are obligatory. You MUST swap a stat/attribute with another player. (In the unlikely event this is impossible, pass your turn. It is very unlikely :wink:)
+    4. NOTE: Aces are obligatory. You MUST swap a stat/attribute with another player. (In the unlikely event this is impossible, pass your turn. It is very unlikely :wink:)
+* **Joker (Optional)** - The Joker is an instant opportunity to *Level Up*. Draw a card face up from the pile. If it is a Special Card, 
 
 ***Upon resolution of a Special Card, your turn is over.***
 
