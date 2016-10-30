@@ -10,11 +10,12 @@ Spades   = BLACK Attack ("Physical")
 SPECIAL EFFECTS:
 Ace   = Swap an attribute card with another player
 Jack  = Stabby Jack stabs you twice! (Dodge with King)
-Queen = Heal or Steal; Heal 2 HP or look in her purse (draw a card)
-        Check the value of the Numbered card against your Luck; If
-        your Luck is euql or greater, Level Up (Add the numbered
-        card to your attributes, Max 8)
-King  = 2x Attack; Win 2 Monster points or Lose 2 HP
+Queen or King (Monarch) = To be determined by SUIT:
+  HEART: Heal 2 HP
+  CLUB: Steal; Draw next card from pile and add new stat if your
+        Luck (CLUBS) is equal or greater than the drawn numbered card
+  DIAMOND: Fight with DIAMONDS (Magical); Lose 2 HP or Win 2 XP
+  SPADE: Fight with SPADES (Physical); Lose 2 HP or Win 2 XP
 Joker = Free Level Up
 
 ACTIONS:
