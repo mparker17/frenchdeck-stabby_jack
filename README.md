@@ -107,18 +107,17 @@ In the event of a tie between the Monster and your associated Attack Power cards
 Whenever you draw a face card / Special Card, your previous action is nullified and you are now resolving the Special Card in front of you.
 
 * **Jack** - Stabby Jack is a dastardly fellow who immediately deals 2 points of damage to your HP. Cover 2 hearts on your HP cards with coins or other markers. You may choose to discard a **Monarch** from your monster bag / XP row as a human shield to protect you from Stabby Jack if you have one.
-* **Queen** and **King** - The Queen and King have a special effect related to their suit:
+* **Queen** and **King** - The Queen and King (**Monarchs**) have a special effect related to their suit:
   * HEART: Heal 2 HP
   * CLUB: Draw the next card from the pile. If it is a *Special Card* resolve it and end your turn. If it is a numbered card (2-10) less than or equal to the value of Luck in your hand, you can *Level Up* with this card, follow the steps for *Levelling Up*.
   * DIAMOND: The Queen or King challenges you in *Combat* with a face value of 13. Fight the monarch with your Magical Attack Power (Sum of all your Diamonds)
   * SPADE: The Queen or King challenges you in *Combat* with a face value of 13. Fight the monarch with your Physical Attack Power (Sum of all your Spades)
-your *Levelling Up* fails and you must resolve the Special Card, otherwise follow the steps for *Levelling Up*.
 * **Ace** - When you draw an Ace, swap one Stat card with a Stat card of another player. You may choose to swap either
     1. Cards of the same **suit**, or
     2. Cards of the same **value**
     3. NOTE: In this fashion it is possible to kill other players at the table, by reducing their HP to 0.
     4. NOTE: Aces are obligatory. You MUST swap a stat/attribute with another player. (In the unlikely event this is impossible, pass your turn. It is very unlikely :wink:)
-* **Joker (Optional)** - The Joker is an instant opportunity to *Level Up*. Draw a card face up from the pile. If it is a Special Card, 
+* **Joker (Optional)** - The Joker is an instant opportunity to *Level Up*. Draw a card face up from the pile. If it is a Special Card, your *Levelling Up* fails and you must resolve the Special Card, otherwise follow the steps for *Levelling Up*.
 
 ***Upon resolution of a Special Card, your turn is over.***
 
