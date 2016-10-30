@@ -8,6 +8,8 @@ Also known as "5-minute RPG".
 
 This game is played with one or more standard decks of 52 cards (or 54 with Jokers) and uses a standard face-down draw pile and face-up discard piles. Each player has a face up Stats Row representing their stat points, and an XP Row representing their experience points or killed/bagged monsters. You will also need some coins or other markers for marking damage to Hit Points (HP).
 
+This is a slight variation of the original rules requiring 13 points to win instead of 10. I never did calculations against the numbers used throughout the game to determine feasability, and 10 is a rather arbitrary decision which seems to work well. Some of my friends accidentally remembered the winning rule as 13 points instead of the original 10 and have told me that it works just fine. I have not encountered any game-breaking issues with this rule, and would love to hear any thoughts on the matter. -Mike Mallett <mike@nerdcore.net>
+
 ## Dealing the Cards
 
 Determine who will deal using whatever method you please.
@@ -128,7 +130,7 @@ Upon death, you lose your Stats and your XP/Monster Bag. Return them to the disc
 
 In order to win the game, you must fulfil certain conditions simultaneously:
 
-* Hold 10 XP (Defeated Monsters and Kings that have not been used to level up)
+* Hold 13 XP (Defeated Monsters and Kings that have not been used to level up)
 * Hold more Physical Attack Power *or* Magical Attack Power than each opponents' Hit Points (You must be able to defeat each of the other players individually, not a sum of their HP)
 * Hold more Clubs than any other player (Have the most Luck; You must be able to kill each other player without the others noticing! :smiley:)
 
