@@ -83,7 +83,7 @@ During combat, you compare the total value of all your Attack Power cards of the
 
 * Black cards are Physical Monsters (Attack with Spades)
 * Red cards are Magical Monsters (Attack with Diamonds/"Crystals")
-* The Diamond and Spade Queen and King (Monarch) Special Cards acts as monsters. Diamond Monarchs are fought with Magic and Spade Monarchs with Physical Attack. The Monarchs have a value of 13, and they always wins ties (You require 14 points of the corresponding type to bag a Monarch).
+* The Diamond and Spade Queen and King (Monarch) Special Cards act as monsters. Diamond Monarchs are fought with Magic and Spade Monarchs with Physical Attack. The Monarchs have a value of 13, and they always wins ties (You require 14 points of the corresponding type to bag a Monarch).
 
 If your Attack Power is greater than the value showing on the Monster card, then you win the fight and claim the card for XP. Place the card face up in your XP Row, separate from your Stats Row. (Suggestion: Place the killed/bagged Monsters sideways, and your character stats vertically).
 
@@ -108,10 +108,10 @@ Whenever you draw a face card / Special Card, your previous action is nullified 
 
 * **Jack** - Stabby Jack is a dastardly fellow who immediately deals 2 points of damage to your HP. Cover 2 hearts on your HP cards with coins or other markers. You may choose to discard a **Monarch** from your monster bag / XP row as a human shield to protect you from Stabby Jack if you have one.
 * **Queen** and **King** - The Queen and King have a special effect related to their suit:
-    HEART: Heal 2 HP
-    CLUB: Draw the next card from the pile. If it is a *Special Card* resolve it and end your turn. If it is a numbered card (2-10) less than or equal to the value of Luck in your hand, you can *Level Up* with this card, follow the steps for *Levelling Up*.
-    DIAMOND: The Queen or King challenges you in *Combat* with a face value of 13. Fight the monarch with your Magical Attack Power (Sum of all your Diamonds)
-    SPADE: The Queen or King challenges you in *Combat* with a face value of 13. Fight the monarch with your Physical Attack Power (Sum of all your Spades)
+  * HEART: Heal 2 HP
+  * CLUB: Draw the next card from the pile. If it is a *Special Card* resolve it and end your turn. If it is a numbered card (2-10) less than or equal to the value of Luck in your hand, you can *Level Up* with this card, follow the steps for *Levelling Up*.
+  * DIAMOND: The Queen or King challenges you in *Combat* with a face value of 13. Fight the monarch with your Magical Attack Power (Sum of all your Diamonds)
+  * SPADE: The Queen or King challenges you in *Combat* with a face value of 13. Fight the monarch with your Physical Attack Power (Sum of all your Spades)
 your *Levelling Up* fails and you must resolve the Special Card, otherwise follow the steps for *Levelling Up*.
 * **Ace** - When you draw an Ace, swap one Stat card with a Stat card of another player. You may choose to swap either
     1. Cards of the same **suit**, or
