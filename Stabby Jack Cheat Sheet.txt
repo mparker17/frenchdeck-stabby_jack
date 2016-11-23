@@ -1,0 +1,33 @@
+2-10 = "Numbered cards"
+Ace, Jack, Queen, King, Joker = "Special cards"
+
+SUITS:
+Hearts   = Health / HP / Life
+Clubs    = Luck
+Diamonds = RED Attack ("Magic")
+Spades   = BLACK Attack ("Physical")
+
+SPECIAL EFFECTS:
+Ace   = Swap an attribute card with another player
+Jack  = Stabby Jack stabs you twice! (Dodge with King)
+Queen = Heal or Steal; Heal 2 HP or look in her purse (draw a card)
+        Check the value of the Numbered card against your Luck; If
+        your Luck is euql or greater, Level Up (Add the numbered
+        card to your attributes, Max 8)
+King  = 2x Attack; Win 2 Monster points or Lose 2 HP
+Joker = Free Level Up
+
+ACTIONS:
+On your turn, you may...
+FIGHT = Draw a card; Fight it if it is Numbered (2-10)
+TRAIN = Draw a card; Replace an attribute if it in Numbered (2-10)
+STAY IN BED = Heal 1 HP
+LEVEL UP = Discard 5 monster points; Draw through to Numbered card
+           (discarding all Specials) and add a new attribute (Max 8)
+
+WINNING CONDITIONS:
+A player wins if, at any time, they posess:
+10 Monster points,
+More LUCK (Clubs) than any other player, AND
+Enough Attack power to kill each other player (More DIAMONDS or SPADES
+than other players have HEARTS).
